@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "downloadUrl": "https://archive.org/download/rubin-project/RubinProject.rar",
-  "news": "Текст новостей: выпущен в релиз лаунчер",
+  "news": "Версия 1.0.0: Добавлена проверка файлов в лаунчер, пофишкены мелкие Баги",
   "changelog": "что изменилось"
 }
