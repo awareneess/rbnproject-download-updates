@@ -3,6 +3,8 @@
   "downloadUrl": "https://archive.org/download/rubin-project/RubinProject.rar",
   "news": "Добро пожаловать в Rubin Project! Сервер открыт, заходите играть.",
   "changelog": " - Первый релиз сборки и лаунчера",
+  "launcherVersion": "1.0.0",
+  "launcherDownloadUrl": "https://mysite.com/rubin/RubinLauncher.exe",
   "newsItems": [
     { "title": "Лаунчер", "text": "Доступна для скачивания наша сборка, следите за новостями", "link": "https://mysite.com/news/winter-update" },
     { "title": "Баги", "text": "Нашли баг? - пишете нам, мы постараемся помочь", "link": "https://vk.ru/rubin.crmp" },
