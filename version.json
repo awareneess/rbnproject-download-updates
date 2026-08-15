@@ -1,9 +1,9 @@
 {
   "version": "0.2",
- "downloadUrl": [
-    "https://www.dropbox.com/scl/fi/fozvzjiuywqk8myjjxhzr/RubinProject1.rar?rlkey=qk5wi1878u3u16mk5xdnk5mz1&st=dhzg5nt8&dl=1",
-    "https://github.com/awareneess/rbnproject-download-updates/releases/download/rubinproject/RubinProject2.rar"
-  ],
+  "downloadParts": [
+  "https://www.dropbox.com/scl/fi/fozvzjiuywqk8myjjxhzr/RubinProject1.rar?rlkey=qk5wi1878u3u16mk5xdnk5mz1&st=dhzg5nt8&dl=1",
+  "https://github.com/awareneess/rbnproject-download-updates/releases/download/rubinproject/RubinProject2.rar"
+  ],
   "news": "Добро пожаловать в Rubin Project! Сервер открыт, заходите играть.",
   "changelog": " - Первый релиз сборки и лаунчера",
   "launcherVersion": "0.3",
