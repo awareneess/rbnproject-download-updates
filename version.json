@@ -6,8 +6,8 @@
   ],
   "news": "Добро пожаловать в Rubin Project! Сервер открыт, заходите играть.",
   "changelog": " - Первый релиз сборки и лаунчера",
-  "launcherVersion": "0.3",
-  "launcherDownloadUrl": "https://archive.org/download/rubin-launcher_202608/RubinLauncher.exe",
+  "launcherVersion": "0.4",
+  "launcherDownloadUrl": "https://www.dropbox.com/scl/fi/g49i3l7klud6n9cqdgtod/RubinLauncher.exe?rlkey=qn3fhmyxvskvxb5lf3do2de8a&st=xzojxdqg&dl=1",
   "newsItems": [
     { "title": "Лаунчер", "text": "Доступна для скачивания наша сборка, следите за новостями", "link": "https://vk.ru/rubin.crmp" },
     { "title": "Баги", "text": "Нашли баг? - пишете нам, мы постараемся помочь. За некоторые найденные баги можно получить вознаграждение в игре", "link": "https://vk.ru/rubin.crmp" },
