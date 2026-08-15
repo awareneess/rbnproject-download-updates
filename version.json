@@ -7,8 +7,8 @@
   "launcherDownloadUrl": "https://archive.org/download/rubin-launcher_202608/RubinLauncher.exe",
   "newsItems": [
     { "title": "Лаунчер", "text": "Доступна для скачивания наша сборка, следите за новостями", "link": "https://vk.ru/rubin.crmp" },
-    { "title": "Баги", "text": "Нашли баг? - пишете нам, мы постараемся помочь, за некоторые баги можно получить вознаграждение", "link": "https://vk.ru/rubin.crmp" },
+    { "title": "Баги", "text": "Нашли баг? - пишете нам, мы постараемся помочь. За некоторые найденные баги можно получить вознаграждение в игре", "link": "https://vk.ru/rubin.crmp" },
     { "title": "Медиа", "text": "Мы готовы к медийному сотрудничеству!", "link": "https://vk.ru/rubin.crmp" },
-    { "title": "Команда", "text": "Присоединяйся в команду проекта", "link": "https://vk.ru/rubin.crmp" }
+    { "title": "Команда", "text": "Присоединяйся в команду проекта!", "link": "https://vk.ru/rubin.crmp" }
   ]
 }
